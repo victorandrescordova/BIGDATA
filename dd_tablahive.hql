@@ -1,4 +1,8 @@
-1.Creacion de tabla HIVkkjfdeie
-2.jsjdksdj
+-1. Creacion de tabla HIVkkjfdeie
+-2.jsjds
 3.jkkaskllksa
-4.Autor
+CREATE TABLA TEST
+(
+campo1 
+campo2
+)
